@@ -1,7 +1,6 @@
 # BCI
-First project for the Brain-Computer Interface.
-
-Brain-Wave Reference:
+BCIs or Brain-Computer Interfaces, also known as BMIs or Brain-Machine Interfaces, are devices that .  They .  .
+## Brain-Wave Reference:
 😪 Delta (0.5–4 Hz)- Deep sleep
 
 🧘 Theta (4–8 Hz) - Drowsiness, meditation
